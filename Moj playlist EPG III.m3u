@@ -16,7 +16,7 @@ http://88.212.15.50/live/markiza_klasik_hevc/index.m3u8
 http://88.212.15.50/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.DAJTO.cz" tvg-name="Dajto" tvg-logo="https://i.imgur.com/DdWj4xv.png", DAJTO
 http://88.212.15.50/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="WAU.cz" tvg-name="WAU" tvg-logo="https://i.imgur.com/j51uAjL.png", WAU
+#EXTINF:-1 tvg-id="WAU.cz" tvg-name="KRIMI" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/krimi.png", KRINI
 http://88.212.15.50/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-name="JOJ" tvg-logo="https://i.imgur.com/NSpxSOD.png", JOJ
 http://88.212.15.50/live/test_joj_25p/playlist.m3u8
@@ -66,15 +66,15 @@ http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png", CINEMAX2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.cz" tvg-name="FilmBox" tvg-logo="https://i.imgur.com/VyaslIY.png", FILMBOX
+#EXTINF:-1 tvg-id="Filmbox.cz" tvg-name="FilmBox+ one" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox%2B%20one.png", FilmBox+ one
 http://88.212.15.50/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Extra.HD.cz" tvg-name="Filmbox Extra HD" tvg-logo="https://i.imgur.com/ML7SlIW.png", FILMBOX EXTRA 
+#EXTINF:-1 tvg-id="Filmbox.Extra.HD.cz" tvg-name="FilmBox+ emotion" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox%2B%20emotion.png", FilmBox+ emotion 
 http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Premium.cz" tvg-name="FilmBox Premium" tvg-logo="https://i.imgur.com/RydfsE9.png", FILMBOX PREMIUM 
+#EXTINF:-1 tvg-id="Filmbox.Premium.cz" tvg-name="FilmBox+ hits" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox%2B%20hits.png", FilmBox+ hits
 http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Family.cz" tvg-name="FilmBox Family" tvg-logo="https://i.imgur.com/CGFyAyc.png", FILMBOX FAMILY 
+#EXTINF:-1 tvg-id="Filmbox.Family.cz" tvg-name="FilmBox+ comedy" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox%2B%20comedy.png", FilmBox+ comedy
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Stars.cz" tvg-name="Filmbox Stars" tvg-logo="https://i.imgur.com/eZFdHbR.png", FILMBOX STARS 
+#EXTINF:-1 tvg-id="Filmbox.Stars.cz" tvg-name="FilmBox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox%2B%20love%26crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
@@ -208,7 +208,7 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/164074
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1990796
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="http://51.158.145.100/picons/logos/UK/1458549.png", E4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458549
-#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="FILM 4" tvg-logo="http://51.158.145.100/picons/logos/UK/30539.png", FILM 4
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="FILM 4" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30539
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30554
