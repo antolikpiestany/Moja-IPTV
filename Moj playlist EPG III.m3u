@@ -66,15 +66,15 @@ http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png", CINEMAX2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.cz" tvg-name="Filmbox" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20one.png", FilmBox+ one
+#EXTINF:-1 tvg-id="FILMBOX.cz" tvg-name="FILMBOX" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20one.png", FilmBox+ one
 http://88.212.15.50/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Extra.HD.cz" tvg-name="Filmbox Extra HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20emotion.png", FilmBox+ emotion 
+#EXTINF:-1 tvg-id="FILMBOXEXTRA.cz" tvg-name="FILMBOXEXTRA" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20emotion.png", FilmBox+ emotion 
 http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Premium.cz" tvg-name="Filmbox Premium" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20hits.png", FilmBox+ hits
+#EXTINF:-1 tvg-id="FILMBOXPREMIUM.cz" tvg-name="FILMBOXPREMIUM" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20hits.png", FilmBox+ hits
 http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Family.cz" tvg-name="Filmbox Family" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
+#EXTINF:-1 tvg-id="FILMBOXFAMILY.cz" tvg-name="FILMBOXFAMILY" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox.Stars.cz" tvg-name="Filmbox Stars" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
+#EXTINF:-1 tvg-id="FILMBOXSTARS.cz" tvg-name="FILMBOXSTARS" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
