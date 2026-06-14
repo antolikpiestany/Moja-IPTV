@@ -16,7 +16,7 @@ http://88.212.15.50/live/markiza_klasik_hevc/index.m3u8
 http://88.212.15.50/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.DAJTO.cz" tvg-name="Dajto" tvg-logo="https://i.imgur.com/DdWj4xv.png", DAJTO
 http://88.212.15.50/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="WAU.cz" tvg-name="KRIMI" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/krimi.png", KRINI
+#EXTINF:-1 tvg-id="WAU.cz" tvg-name="KRIMI" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/krimi.png", KRIMI
 http://88.212.15.50/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-name="JOJ" tvg-logo="https://i.imgur.com/NSpxSOD.png", JOJ
 http://88.212.15.50/live/test_joj_25p/playlist.m3u8
