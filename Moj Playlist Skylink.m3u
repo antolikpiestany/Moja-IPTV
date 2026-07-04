@@ -78,8 +78,6 @@ http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
-#EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1788297
 #EXTINF:-1 tvg-id="Seznam.cz.TV.cz" tvg-name="Seznam.cz TV" tvg-logo="https://i.imgur.com/TpQ8PRb.png", Seznam.cz
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
