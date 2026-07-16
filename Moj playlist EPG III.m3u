@@ -74,7 +74,7 @@ http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox+.comedy.cz" tvg-name="Filmbox+ comedy" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox+.love&amp;crime.cz" tvg-name="Filmbox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
+#EXTINF:-1 tvg-id="Filmbox+.love&amp;crime.cz" tvg-name="Filmbox+ love&amp;crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
@@ -158,57 +158,57 @@ http://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8
 https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-logo="https://i.imgur.com/dQJQv1X.png", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Deluxe.Music.cz" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music
+#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411319
 #EXTINF:-1 tvg-id="Óčko.HD.cz" tvg-name="Óčko HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png", Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="ORF1.cz" tvg-name="ORF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
+#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1329448
-#EXTINF:-1 tvg-id="ORF2.cz" tvg-name="ORF2" tvg-logo="https://i.imgur.com/qDdVR6E.png", ORF2
+#EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" tvg-logo="https://i.imgur.com/qDdVR6E.png", ORF2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/127403
-#EXTINF:-1 tvg-id="SAT1.cz" tvg-name="SAT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png", SAT.1
+#EXTINF:-1 tvg-id="SAT.1.de" tvg-name="SAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png", SAT.1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=1025126&extension=ts
-#EXTINF:-1 tvg-id="PRO7.cz" tvg-name="PRO7" tvg-logo="https://i.imgur.com/zZOk3nh.png", PRO7
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://i.imgur.com/zZOk3nh.png", PRO7
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="PROSIEBEN MAXX HEVC" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/PROSIEBENMAXX.png", PRO7 MAXX
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889557
-#EXTINF:-1 tvg-id="VOX.cz" tvg-name="VOX" tvg-logo="https://i.imgur.com/QPcmfZb.png", VOX
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://i.imgur.com/QPcmfZb.png", VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL.cz" tvg-name="RTL" tvg-logo="https://i.imgur.com/94K94k2.png", RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://i.imgur.com/94K94k2.png", RTL
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889556
-#EXTINF:-1 tvg-id="Sixx.cz" tvg-name="Sixx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png", SIXX
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png", SIXX
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Kabel1.cz" tvg-name="Kabel1" tvg-logo="https://i.imgur.com/6pulSHZ.png", KABEL EINS 
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="https://i.imgur.com/6pulSHZ.png", KABEL EINS 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889551
-#EXTINF:-1 tvg-id="ZDF.cz" tvg-name="ZDF" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png", ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png", ZDF HD
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411459
-#EXTINF:-1 tvg-id="Das.Erste.cz" tvg-name="Das Erste" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png", DAS ERSTE
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png", DAS ERSTE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411462
-#EXTINF:-1 tvg-id="BBC.One.cz" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png", BBC ONE NI
+#EXTINF:-1 tvg-id="BBC.One.NI.HD.uk" tvg-name="BBC One NI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png", BBC ONE NI
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458572
-#EXTINF:-1 tvg-id="BBC.Two.cz" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png", BBC TWO
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png", BBC TWO
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458573
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three HD" tvg-logo="https://i.imgur.com/CGXC5fp.png", BBC 3 / CBBC HD
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/45336
-#EXTINF:-1 tvg-id="ITV.cz" tvg-name="ITV" tvg-logo="https://i.imgur.com/xwPekCF.png", ITV 1
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 HD" tvg-logo="https://i.imgur.com/xwPekCF.png", ITV 1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458568
-#EXTINF:-1 tvg-id="ITV2.cz" tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png", ITV 2
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 HD" tvg-logo="https://i.imgur.com/2BpUK0W.png", ITV 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458555
-#EXTINF:-1 tvg-id="ITV3.cz" tvg-name="ITV3" tvg-logo="https://i.imgur.com/JuyM2z5.png", ITV 3
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 HD" tvg-logo="https://i.imgur.com/JuyM2z5.png", ITV 3
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458556
-#EXTINF:-1 tvg-id="ITV4.cz" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png", ITV 4
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 HD" tvg-logo="https://i.imgur.com/DYI4IA2.png", ITV 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/111557
-#EXTINF:-1 tvg-id="Channel.4.cz" tvg-name="Channel4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png", Channel 4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png", Channel 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30555
-#EXTINF:-1 tvg-id="More.4.cz" tvg-name="More4" tvg-logo="https://i.imgur.com/cx5YcAU.png", 4More
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="More4 HD" tvg-logo="https://i.imgur.com/cx5YcAU.png", 4More
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/164074
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="https://i.imgur.com/Fpaxyop.png", 4Seven
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1990796
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="http://51.158.145.100/picons/logos/UK/1458549.png", E4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458549
-#EXTINF:-1 tvg-id="Film.4.cz" tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30539
-#EXTINF:-1 tvg-id="Channel.5.cz" tvg-name="Channel5" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-name="Channel5" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30554
 #EXTINF:-1:-1 tvg-id="Virgin.Media.One.HD.ie" tvg-name="VIRGIN MEDIA ONE" tvg-logo="https://i.imgur.com/QN0SMt4.png", VIRGIN MEDIA ONE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/79944
