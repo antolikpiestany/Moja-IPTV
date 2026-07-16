@@ -74,7 +74,7 @@ http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox+.comedy.cz" tvg-name="Filmbox+ comedy" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox+.love&amp;crime.cz" tvg-name="Filmbox+ love&amp;crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
+#EXTINF:-1 tvg-id="Filmbox+.love&amp;crime.cz" tvg-name="FilmBox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
@@ -208,7 +208,7 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1990796
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458549
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30539
-#EXTINF:-1 tvg-id="Channel.5.uk" tvg-name="Channel5" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel5 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30554
 #EXTINF:-1:-1 tvg-id="Virgin.Media.One.HD.ie" tvg-name="VIRGIN MEDIA ONE" tvg-logo="https://i.imgur.com/QN0SMt4.png", VIRGIN MEDIA ONE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/79944
