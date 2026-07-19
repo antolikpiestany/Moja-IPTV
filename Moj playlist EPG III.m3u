@@ -51,7 +51,7 @@ http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Action.cz" tvg-name="Nova Action" tvg-logo="https://i.imgur.com/oRSsfRx.png", NOVA Action
 http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-name="Nova Cinema" tvg-logo="https://i.imgur.com/8Hxm0bV.png", NOVA CINEMA 
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/98299
+http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://grgopitic.github.io/piconstv/all/axn.png", AXN
 http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-name="AMC" tvg-logo="https://grgopitic.github.io/piconstv/all/amc.png", AMC
