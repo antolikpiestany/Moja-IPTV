@@ -66,15 +66,15 @@ http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png", CINEMAX2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="4512" tvg-name="FILMBOX+ one HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20one.png", FilmBox+ one
+#EXTINF:-1 tvg-id="Filmbox+.one.cz" tvg-name="Filmbox+ one" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20one.png", FilmBox+ one
 http://88.212.15.50/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-id="4027" tvg-name="FILMBOX+ emotion HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20emotion.png", FilmBox+ emotion 
+#EXTINF:-1 tvg-id="Filmbox+.emotion.cz" tvg-name="Filmbox+ emotion" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20emotion.png", FilmBox+ emotion 
 http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="4270" tvg-name="FILMBOX+ hits HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20hits.png", FilmBox+ hits
+#EXTINF:-1 tvg-id="Filmbox+.hits.cz" tvg-name="Filmbox+ hits" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20hits.png", FilmBox+ hits
 http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="4096" tvg-name="FILMBOX+ comedy" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
+#EXTINF:-1 tvg-id="Filmbox+.comedy.cz" tvg-name="Filmbox+ comedy" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20comedy.png", FilmBox+ comedy
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="4568" tvg-name="FILMBOX+ love&amp;crime HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
+#EXTINF:-1 tvg-id="Filmbox+.love&crime.cz" tvg-name="Filmbox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://i.imgur.com/jVv8m9x.png", CANAL+ ACTION 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
@@ -108,7 +108,7 @@ http://88.212.15.50/live/test_ngc/playlist.m3u8
 http://88.212.15.50/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.cz" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET 
 http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Love.Nature.cz" tvg-name="Love Nature 4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png", LOVE NATURE 
+#EXTINF:-1 tvg-id="Love.Nature.cz" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/LoveNature2024.png", LOVE NATURE 
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-name="Auto Motor Sport" tvg-logo="https://i.imgur.com/o8wOvJ7.png", AUTO MOTOR SPORT 
 http://88.212.15.50/live/test_ams/playlist.m3u8
@@ -158,11 +158,11 @@ http://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8
 https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-logo="https://i.imgur.com/dQJQv1X.png", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music
+#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411319
 #EXTINF:-1 tvg-id="Óčko.HD.cz" tvg-name="Óčko HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png", Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
+#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1329448
 #EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" tvg-logo="https://i.imgur.com/qDdVR6E.png", ORF2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/127403
@@ -180,9 +180,9 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889556
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="https://i.imgur.com/6pulSHZ.png", KABEL EINS 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889551
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png", ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png", ZDF HD
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411459
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="DAS ERSTE HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png", DAS ERSTE
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png", DAS ERSTE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411462
 #EXTINF:-1 tvg-id="BBC.One.NI.HD.uk" tvg-name="BBC One NI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png", BBC ONE NI
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458572
@@ -206,9 +206,9 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/164074
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1990796
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="http://51.158.145.100/picons/logos/UK/1458549.png", E4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458549
-#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="FILM 4" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30539
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel5 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png", Channel 5
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30554
 #EXTINF:-1:-1 tvg-id="Virgin.Media.One.HD.ie" tvg-name="VIRGIN MEDIA ONE" tvg-logo="https://i.imgur.com/QN0SMt4.png", VIRGIN MEDIA ONE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/79944
@@ -224,3 +224,5 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/773996
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/774034
 #EXTINF:-1 tvg-id="Czech.Streets" tvg-name="Czech Streets" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png", Czech Streets
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/309868
+#EXTINF:-1 tvg-id="GangBang" tvg-name="Gang Bang" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png", Gang Bang
+http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/773983
