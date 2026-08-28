@@ -148,9 +148,9 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1982240
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1758165
 #EXTINF:-1 tvg-id="Premier.Sport.2.cz" tvg-name="PREMIER SPORT 2" tvg-logo="https://i.imgur.com/yOn6CxZ.png", PREMIER SPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1758164
-#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena sport 1" tvg-logo="https://i.imgur.com/2qf67zW.png", ARENA Šport1
+#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena sport 1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1SPORT.png", KANAL1 SPORT
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena.sport.2" tvg-logo="https://i.imgur.com/Yq3Jf19.png", ARENA Šport2
+#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena.sport.2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1XTRA.png", KANAL1 EXTRA
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="Lux.cz" tvg-name="Lux" tvg-logo="https://www.tvlux.sk/media/2023/10/652f9ed739018103555424_televizia-lux_biele-priehladne.png", LUX
 http://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8	
