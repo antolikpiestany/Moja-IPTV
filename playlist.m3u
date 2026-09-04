@@ -32,7 +32,7 @@ http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
 http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png", PRIMA
 http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-name="Prima COOL" tvg-logo="http://51.158.145.100/picons/logos/TCHEQUIE/PRIMACOOL.png", PRIMA COOL 
+#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-name="Prima COOL" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/PRIMACOOL.png", PRIMA COOL 
 http://88.212.15.50/live/prima_cool_cz_hevc/index.m3u8
 #EXTINF:-1 tvg-id="Prima.Show.cz" tvg-name="Prima Show" tvg-logo="https://i.imgur.com/XbwAwkp.png", PRIMA Show
 http://88.212.15.50/live/prima_show_25p/playlist.m3u8
@@ -132,17 +132,17 @@ http://88.212.15.50/live/test_sport_2/playlist.m3u8
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509077
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport.2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png", EUROSPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509078
-#EXTINF:-1 tvg-id="Canal.plus.Sport.CZ.cz" tvg-name="CANAL+ SPORT" tvg-logo="http://51.158.145.100/picons/logos/TCHEQUIE/CANALPLUSSPORT.png", CANAL+ SPORT
+#EXTINF:-1 tvg-id="Canal.plus.Sport.CZ.cz" tvg-name="CANAL+ SPORT" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport1.png", CANAL+ SPORT
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438002
-#EXTINF:-1 tvg-id="Canal.plus.Sport.2.cz" tvg-name="CANAL+ SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/TCHEQUIE/CANALPLUSSPORT2.png", CANAL+ SPORT 2
+#EXTINF:-1 tvg-id="Canal.plus.Sport.2.cz" tvg-name="CANAL+ SPORT 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438003
-#EXTINF:-1 tvg-id="Oneplay.Sport.1.cz" tvg-name="ONEPLAY SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1982236.png", ONEPLAY SPORT 1
+#EXTINF:-1 tvg-id="Oneplay.Sport.1.cz" tvg-name="ONEPLAY SPORT 1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport1.png", ONEPLAY SPORT 1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1982236
-#EXTINF:-1 tvg-id="Oneplay.Sport.2.cz" tvg-name="ONEPLAY SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1982238.png", ONEPLAY SPORT 2
+#EXTINF:-1 tvg-id="Oneplay.Sport.2.cz" tvg-name="ONEPLAY SPORT 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport2.png", ONEPLAY SPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1982238
-#EXTINF:-1 tvg-id="Oneplay.Sport.3.cz" tvg-name="ONEPLAY SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1982239.png", ONEPLAY SPORT 3
+#EXTINF:-1 tvg-id="Oneplay.Sport.3.cz" tvg-name="ONEPLAY SPORT 3" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport3.png", ONEPLAY SPORT 3
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1982239
-#EXTINF:-1 tvg-id="Oneplay.Sport.4.cz" tvg-name="ONEPLAY SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1982240.png", ONEPLAY SPORT 4
+#EXTINF:-1 tvg-id="Oneplay.Sport.4.cz" tvg-name="ONEPLAY SPORT 4" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport4.png", ONEPLAY SPORT 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1982240
 #EXTINF:-1 tvg-id="Premier.Sport.1.cz" tvg-name="PREMIER SPORT 1" tvg-logo="https://i.imgur.com/XqGEeSE.png", PREMIER SPORT 1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1758165
@@ -170,7 +170,7 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/127403
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=1025126&extension=ts
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://i.imgur.com/zZOk3nh.png", PRO7
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="PROSIEBEN MAXX HEVC" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/PROSIEBENMAXX.png", PRO7 MAXX
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="PROSIEBEN MAXX HEVC" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/PROSIEBENMAXX.png", PRO7 MAXX
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889557
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://i.imgur.com/QPcmfZb.png", VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
@@ -180,9 +180,9 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889556
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="https://i.imgur.com/6pulSHZ.png", KABEL EINS 
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/889551
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png", ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/ZDF.png", ZDF HD
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411459
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png", DAS ERSTE
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/DASERSTE.png", DAS ERSTE
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/411462
 #EXTINF:-1 tvg-id="BBC.One.NI.HD.uk" tvg-name="BBC One NI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png", BBC ONE NI
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458572
@@ -204,7 +204,7 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30555
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/164074
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="https://i.imgur.com/Fpaxyop.png", 4Seven
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1990796
-#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="http://51.158.145.100/picons/logos/UK/1458549.png", E4
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/E4.png", E4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1458549
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film4.png", FILM 4
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/30539
