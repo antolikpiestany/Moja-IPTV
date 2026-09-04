@@ -132,7 +132,7 @@ http://88.212.15.50/live/test_sport_2/playlist.m3u8
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509077
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport.2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png", EUROSPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509078
-#EXTINF:-1 tvg-id="Canal.plus.Sport.CZ.cz" tvg-name="CANAL+ SPORT" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/oneplay_sport1.png", CANAL+ SPORT
+#EXTINF:-1 tvg-id="Canal.plus.Sport.CZ.cz" tvg-name="CANAL+ SPORT" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT.png", CANAL+ SPORT
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438002
 #EXTINF:-1 tvg-id="Canal.plus.Sport.2.cz" tvg-name="CANAL+ SPORT 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438003
