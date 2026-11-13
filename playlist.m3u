@@ -88,12 +88,19 @@ http://88.212.15.50/live/test_barrandov/playlist.m3u8
 http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-name="Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png", TV Paprika
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=961136&extension=ts
+#EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
+http://88.212.15.50/live/warner_tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.cz" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png", Cartoonito 
+http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/aOa73uT.png", DISNEY
 http://88.212.15.50/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Minimax.cz" tvg-name="Minimax" tvg-logo="https://i.imgur.com/WWOlm1x.png", MINIMAX
 http://88.212.15.50/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr..cz" tvg-name="Nick.Jr" tvg-logo="https://i.imgur.com/KT4tdQs.png", Nick Jr.
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png", TLC
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-name="Prima ZOOM" tvg-logo="https://i.imgur.com/uNJqZ6p.png", PRIMA ZOOM 
@@ -129,13 +136,13 @@ http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://i.imgur.com/UxflVoU.png", Sport 2
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport.1" tvg-id="Eurosport.1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png", EUROSPORT 1
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509077
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport.2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png", EUROSPORT 2
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/509078
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.plus.Sport.CZ.cz" tvg-name="CANAL+ SPORT" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT.png", CANAL+ SPORT
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438002
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Canal.plus.Sport.2.cz" tvg-name="CANAL+ SPORT 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1438003
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena sport 1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1SPORT.png", KANAL1 SPORT
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena.sport.2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1XTRA.png", KANAL1 EXTRA
