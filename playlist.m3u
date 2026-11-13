@@ -90,7 +90,6 @@ http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=961136&extension=ts
 #EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
 http://88.212.15.50/live/warner_tv/index.m3u8
-
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.cz" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png", Cartoonito 
@@ -109,6 +108,8 @@ http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/F5Uosum.png", SPEKTRUM
 http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.Earth.cz" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC Earth
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.cz" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC 
 http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.Wild.cz" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/HoeaQJC.png", NATIONAL GEOGRAPHIC WILD 
@@ -117,6 +118,12 @@ http://88.212.15.50/live/test_ngw/playlist.m3u8
 http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Love.Nature.cz" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/LoveNature2024.png", LOVE NATURE 
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/DyT5pKB.png", Viasat Explore
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.Hystory.cz" tvg-name="Viasat Hystory" tvg-logo="https://i.imgur.com/wRP9XA7.png", Viasat Hystory
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png", Viasat Nature
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-name="Auto Motor Sport" tvg-logo="https://i.imgur.com/o8wOvJ7.png", AUTO MOTOR SPORT 
 http://88.212.15.50/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS SPORT" tvg-logo="https://i.imgur.com/oAtcxNZ.png", rtvs SPORT 
@@ -217,7 +224,7 @@ http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/1014308
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/774014
 #EXTINF:-1 tvg-id="Playboy.TV.cz" tvg-name="Playboy TV" tvg-logo="https://i.imgur.com/5di4Nis.png", Playboy TV
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/774034
-#EXTINF:-1 tvg-id="Czech.Streets" tvg-name="Czech Streets" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png", Czech Streets
+#EXTINF:-1 tvg-id="Czech.Streets" tvg-name="Czech Streets" tvg-logo="https://i.imgur.com/dYl4xwU.png", Czech Streets
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/309868
-#EXTINF:-1 tvg-id="CzechBitch" tvg-name="CzechBitch" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png", Czech Bitch
+#EXTINF:-1 tvg-id="CzechBitch" tvg-name="CzechBitch" tvg-logo="https://i.imgur.com/dYl4xwU.png", Czech Bitch
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/774038
