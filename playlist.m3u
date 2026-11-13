@@ -120,7 +120,7 @@ http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/DyT5pKB.png", Viasat Explore
 http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat.Hystory.cz" tvg-name="Viasat Hystory" tvg-logo="https://i.imgur.com/wRP9XA7.png", Viasat Hystory
+#EXTINF:-1 tvg-id="Viasat.History.cz" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/wRP9XA7.png", Viasat History
 http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png", Viasat Nature
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
