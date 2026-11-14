@@ -77,7 +77,7 @@ http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox+.love&crime.cz" tvg-name="Filmbox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B.png", CANAL+
-http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/2011089
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=1803166&extension=ts&play_token=ExsfSu9P2w
 #EXTINF:-1 tvg-id="Seznam.cz.TV.cz" tvg-name="Seznam.cz TV" tvg-logo="https://i.imgur.com/TpQ8PRb.png", Seznam.cz
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
@@ -86,10 +86,10 @@ http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 http://88.212.15.50/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="CS.Film.cz" tvg-name="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png", CS FILM 
 http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Paprika.cz" tvg-name="Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png", TV Paprika
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=961136&extension=ts
 #EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
 http://88.212.15.50/live/warner_tv/index.m3u8
+#EXTINF:-1 tvg-id="Paprika.cz" tvg-name="Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png", TV Paprika
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:07:0C&stream=961136&extension=ts
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.cz" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png", Cartoonito 
