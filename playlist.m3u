@@ -18,7 +18,7 @@ http://88.212.15.50/live/markiza_klasik_hevc/index.m3u8
 http://88.212.15.50/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.DAJTO.cz" tvg-name="Dajto" tvg-logo="https://i.imgur.com/DdWj4xv.png", DAJTO
 http://88.212.15.50/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="WAU.cz" tvg-name="WAU" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/krimi.png", KRIMI
+#EXTINF:-1 tvg-id="JOJ.KRIMI.cz" tvg-name="JOJ KRIMI" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/krimi.png", KRIMI
 http://88.212.15.50/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-name="JOJ" tvg-logo="https://i.imgur.com/NSpxSOD.png", JOJ
 http://88.212.15.50/live/test_joj_25p/playlist.m3u8
@@ -112,7 +112,7 @@ http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png", DuckTV
 https://dash3.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 tvg-id="ducktv.plus.cz" tvg-name="ducktv plus" tvg-logo="https://i.imgur.com/gRFQ35W.png", DuckTV PLUS
+#EXTINF:-1 tvg-id="ducktv.plus.cz" tvg-name="ducktv plus" tvg-logo="https://i.imgur.com/RFhxfOx.png", DuckTV PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png", TLC
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
