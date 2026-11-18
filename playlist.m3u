@@ -84,7 +84,7 @@ http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=180316
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png](https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png", Epic Drama
+#EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png", Epic Drama
 http://88.212.15.50/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Barrandov.cz" tvg-name="Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png", BARRANDOV
 http://88.212.15.50/live/test_barrandov/playlist.m3u8
