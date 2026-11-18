@@ -38,6 +38,8 @@ http://88.212.15.50/live/prima_cool_cz_hevc/index.m3u8
 http://88.212.15.50/live/prima_show_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.Star.cz" tvg-name="Prima Star" tvg-logo="https://i.imgur.com/ppqgNDA.png", PRIMA Star
 http://88.212.15.50/live/prima_star_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.Krimi.cz" tvg-name="Prima Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png", PRIMA Krimi
+http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.MAX.cz" tvg-name="Prima Max" tvg-logo="https://i.imgur.com/ePrdyLi.png", PRIMA MAX
 http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-name="Nova" tvg-logo="https://i.imgur.com/77ztmd9.png", NOVA
@@ -82,6 +84,8 @@ http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=180316
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png](https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png", Epic Drama
+http://88.212.15.50/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Barrandov.cz" tvg-name="Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png", BARRANDOV
 http://88.212.15.50/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="CS.Film.cz" tvg-name="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png", CS FILM 
@@ -164,6 +168,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/662150
 #EXTINF:-1 tvg-id="Óčko.HD.cz" tvg-name="Óčko HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png", Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="Retro.Music,cz" tvg-name="Retro Music" tvg-logo="https://i.imgur.com/pyOjdZs.png", Retro Music
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/661892
 #EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" tvg-logo="https://i.imgur.com/qDdVR6E.png", ORF2
