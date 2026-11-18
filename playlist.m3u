@@ -70,6 +70,8 @@ http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.2.cz" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png", CINEMAX2
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B.png", CANAL+
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=1803166&extension=ts&play_token=ExsfSu9P2w
 #EXTINF:-1 tvg-id="Filmbox+.one.cz" tvg-name="Filmbox+ one" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20one.png", FilmBox+ one
 http://88.212.15.50/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox+.emotion.cz" tvg-name="Filmbox+ emotion" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20emotion.png", FilmBox+ emotion 
@@ -80,8 +82,6 @@ http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox+.love&crime.cz" tvg-name="Filmbox+ love&crime" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/FilmBox+%20love&crime.png", FilmBox+ love&crime 
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-name="CANAL PLUS ACTION CZ" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B.png", CANAL+
-http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=1803166&extension=ts&play_token=ExsfSu9P2w
 #EXTINF:-1 tvg-id="Seznam.cz.TV.cz" tvg-name="Seznam.cz TV" tvg-logo="https://i.imgur.com/TpQ8PRb.png", Seznam.cz
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
