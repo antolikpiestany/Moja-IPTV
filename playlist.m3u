@@ -102,6 +102,8 @@ http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
 http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/aOa73uT.png", DISNEY
 http://88.212.15.50/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.cz" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png", DISNEY Jr.
+http://88.212.15.50/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Minimax.cz" tvg-name="Minimax" tvg-logo="https://i.imgur.com/WWOlm1x.png", MINIMAX
 http://88.212.15.50/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr..cz" tvg-name="Nick.Jr" tvg-logo="https://i.imgur.com/KT4tdQs.png", Nick Jr.
@@ -114,6 +116,10 @@ http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-id="ducktv.plus.cz" tvg-name="ducktv plus" tvg-logo="https://i.imgur.com/RFhxfOx.png", DuckTV PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJKO.cz" tvg-name="JOJKO" tvg-logo="https://i.imgur.com/JBB1n1Z.png", JOJKO
+http://88.212.15.50/live/test_jojko_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT.:D.cz" tvg-name="ČT :D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png", ČT :D
+http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png", TLC
 http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="HGTV" tvg-logo="https://i.imgur.com/KMcR9z9.png", HGTV
