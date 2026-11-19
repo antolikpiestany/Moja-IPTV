@@ -90,12 +90,18 @@ http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 http://88.212.15.50/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Barrandov.cz" tvg-name="Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png", BARRANDOV
 http://88.212.15.50/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="Barrandov.Kino.cz" tvg-name="Barrandov Kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png", BARRANDOV Kino
+http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="CS.Film.cz" tvg-name="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png", CS FILM 
 http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="KVIFF.TV.cz" tvg-name="KVIFF TV" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KVIFF.png", KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
 http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-name="Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png", TV Paprika
 http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Food.Network.cz" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png", Food Network
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.cz" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png", Cartoonito 
@@ -148,6 +154,8 @@ http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png", Viasat Nature
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Travel_Channel.png", Travel Channel
+http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-name="Auto Motor Sport" tvg-logo="https://i.imgur.com/o8wOvJ7.png", AUTO MOTOR SPORT 
 http://88.212.15.50/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS SPORT" tvg-logo="https://i.imgur.com/oAtcxNZ.png", rtvs SPORT 
@@ -160,6 +168,8 @@ http://88.212.15.50/live/test_joj_sport_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/joj_sport_2_avc/index.m3u8
 #EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-name="Nova.Sport.1" tvg-logo="https://i.imgur.com/w8k0Lbg.png", NOVA SPORT 1
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/98306
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova.Sport.2" tvg-logo="https://i.imgur.com/Xdc5JTE.png", NOVA SPORT 2
+http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/98307
 #EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova.Sport.2" tvg-logo="https://i.imgur.com/Xdc5JTE.png", NOVA SPORT 2
 http://line.iptventes.site:80/8fb2887140/9b35e5e741b1/98307
 #EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://i.imgur.com/X5X3tKC.png", Sport 1
@@ -190,8 +200,12 @@ http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/662150
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="Óčko.Black.cz" tvg-name="Óčko Black" tvg-logo="https://i.imgur.com/5rw9tWy.png", Óčko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro.Music,cz" tvg-name="Retro Music" tvg-logo="https://i.imgur.com/pyOjdZs.png", Retro Music
+#EXTINF:-1 tvg-id="Retro.Music.cz" tvg-name="Retro Music" tvg-logo="https://i.imgur.com/pyOjdZs.png", Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Šlágr Originál" tvg-logo="https://i.imgur.com/0YjeWcq.png", Šlágr Originál
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="SENZI.cz" tvg-name="SENZI" tvg-logo="https://i.imgur.com/1qJMmBu.png", SENZI
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF1
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/661892
 #EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" tvg-logo="https://i.imgur.com/qDdVR6E.png", ORF2
