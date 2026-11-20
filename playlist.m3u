@@ -56,7 +56,7 @@ http://88.212.15.50/live/nova_avc_25p/playlist.m3u8
 http://88.212.15.50/live/test_nova_int_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Fun.cz" tvg-name="Nova Fun" tvg-logo="https://i.imgur.com/ky3JevF.png", NOVA Fun
 http://88.212.15.50/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://i.imgur.com/CdBHkPE.png", NOVA KRIMI
+#EXTINF:-1 tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Nova_Krimi.png", NOVA KRIMI
 http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Action.cz" tvg-name="Nova Action" tvg-logo="https://i.imgur.com/oRSsfRx.png", NOVA Action
 http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
