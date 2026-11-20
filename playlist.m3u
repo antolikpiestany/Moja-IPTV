@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 
-#EXTINF:-1 tvg-id="Jednotka.cz" tvg-name="Jednotka" tvg-logo="https://i.imgur.com/aqVki9i.png", JEDNOTKA
+#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-name="Jednotka HD" tvg-logo="https://i.imgur.com/aqVki9i.png", JEDNOTKA
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka.cz" tvg-name="Dvojka" tvg-logo="https://i.imgur.com/ft10wQn.png", DVOJKA
+#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-name="Dvojka HD" tvg-logo="https://i.imgur.com/ft10wQn.png", DVOJKA
 http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-name="Markíza HD" tvg-logo="https://i.imgur.com/W56rOi2.png", Markíza
 http://88.212.15.50/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.+1.cz" tvg-name="Markíza +1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Markiza%2B1.png", Markíza +1
-http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+http://88.212.15.50/live/test_mpjedna_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.International.cz" tvg-name="Markíza International" tvg-logo="https://i.imgur.com/HHdDWOS.png", Markíza International
 http://88.212.15.50/live/markiza_int_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.KRIMI.cz" tvg-name="Markíza KRIMI" tvg-logo="https://i.imgur.com/5KnajhP.png", Markiza KRIMI
@@ -90,7 +90,7 @@ http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
 http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz.TV.cz" tvg-name="Seznam.cz TV" tvg-logo="https://i.imgur.com/TpQ8PRb.png", Seznam.cz
 http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png", FILM+
+#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/5198.png", FILM+
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png", Epic Drama
 http://88.212.15.50/live/test_epic_drama_atk_tv/playlist.m3u8
@@ -117,7 +117,7 @@ http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.cz" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png", Cartoonito 
-http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
+http://88.212.15.50/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/aOa73uT.png", DISNEY
 http://88.212.15.50/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney.Junior.cz" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png", DISNEY Jr.
@@ -134,7 +134,7 @@ http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-id="ducktv.plus.cz" tvg-name="ducktv plus" tvg-logo="https://i.imgur.com/RFhxfOx.png", DuckTV PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJKO.cz" tvg-name="JOJKO" tvg-logo="https://i.imgur.com/JBB1n1Z.png", JOJKO
+#EXTINF:-1 tvg-id="Jojko.cz" tvg-name="Jojko" tvg-logo="https://i.imgur.com/JBB1n1Z.png", JOJKO
 http://88.212.15.50/live/test_jojko_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT.:D.cz" tvg-name="ČT :D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png", ČT :D
 http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
@@ -151,7 +151,7 @@ http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/F5Uosum.png", SPEKTRUM
 http://88.212.15.50/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.Earth.cz" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC Earth
-http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
+http://88.212.15.50/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.cz" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC 
 http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.Wild.cz" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/HoeaQJC.png", NATIONAL GEOGRAPHIC WILD 
@@ -189,9 +189,9 @@ http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://i.imgur.com/UxflVoU.png", Sport 2
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport.1" tvg-id="Eurosport.1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png", EUROSPORT 1
-http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+http://88.212.15.50/live/test_esp1_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport.2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png", EUROSPORT 2
-http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+http://88.212.15.50/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+.Sport.cz" tvg-name="Canal+ Sport" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT.png", CANAL+ SPORT
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Canal+.Sport.2.cz" tvg-name="Canal+ Sport 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
