@@ -4,7 +4,7 @@
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.cz" tvg-name="Dvojka" tvg-logo="https://i.imgur.com/ft10wQn.png", DVOJKA
 http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Markíza.cz" tvg-name="Markíza" tvg-logo="https://i.imgur.com/W56rOi2.png", Markíza
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-name="Markíza HD" tvg-logo="https://i.imgur.com/W56rOi2.png", Markíza
 http://88.212.15.50/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.+1.cz" tvg-name="Markíza +1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Markiza%2B1.png", Markíza +1
 http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
@@ -106,7 +106,7 @@ http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-name="Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png", TV Paprika
 http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Food.Network.cz" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png", Food Network
+#EXTINF:-1 tvg-id="Food.Network.HD.sk" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png", Food Network
 http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8
@@ -138,7 +138,7 @@ http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-name="Prima ZOOM" tvg-logo="https://i.imgur.com/uNJqZ6p.png", PRIMA ZOOM 
 http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.cz" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png", ID
+#EXTINF:-1 tvg-id="ID.HD.sk" tvg-name="ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png", ID
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png", DISCOVERY
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
@@ -164,7 +164,7 @@ http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-name="Auto Motor Sport" tvg-logo="https://i.imgur.com/o8wOvJ7.png", AUTO MOTOR SPORT 
 http://88.212.15.50/live/test_ams/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS SPORT" tvg-logo="https://i.imgur.com/oAtcxNZ.png", rtvs SPORT 
+#EXTINF:-1 tvg-id=":ŠPORT.HD.sk" tvg-name=":ŠPORT HD" tvg-logo="https://i.imgur.com/oAtcxNZ.png", rtvs SPORT 
 http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT.sport.cz" tvg-name="ČT Sport" tvg-logo="http://www.bkusti.cz/soubory/logo-CT-sport.png", ČT SPORT 
 http://88.212.15.50/live/test_ct_sport_hevc_25p/playlist.m3u8
@@ -190,9 +190,9 @@ http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Canal+.Sport.2.cz" tvg-name="Canal+ Sport 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena sport 1" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1SPORT.png", KANAL1 SPORT
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-name="Arena sport 1 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1SPORT.png", KANAL1 SPORT
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena.sport.2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1XTRA.png", KANAL1 EXTRA
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.sk" tvg-name="Arena sport 2 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1XTRA.png", KANAL1 EXTRA
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="Lux.cz" tvg-name="Lux" tvg-logo="https://www.tvlux.sk/media/2023/10/652f9ed739018103555424_televizia-lux_biele-priehladne.png", LUX
 http://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8	
