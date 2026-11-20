@@ -94,12 +94,18 @@ http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Viasat_Epic_Drama_2026.png", Epic Drama
 http://88.212.15.50/live/test_epic_drama_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Film.Europe.HD.sk" tvg-name="Film Europe HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Film_Europe.png", Film Europe
+http://pro.abct.shop:80/play/live.php?mac=00:1A:79:7B:7D:6B&stream=1819046&extension=ts&play_token=QvVcyjzTDm
 #EXTINF:-1 tvg-id="Barrandov.cz" tvg-name="Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png", BARRANDOV
 http://88.212.15.50/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="Barrandov.Kino.cz" tvg-name="Barrandov Kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png", BARRANDOV Kino
 http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="CS.Film.cz" tvg-name="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png", CS FILM 
 http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CS.Mystery.sk" tvg-name="CS Mystery" tvg-logo="https://i.imgur.com/3cFbkUj.png", CS Mystery
+http://88.212.15.50/live/cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CS.History.sk" tvg-name="CS History" tvg-logo="https://i.imgur.com/rtYj21D.png", CS History
+http://88.212.15.50/live/cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="KVIFF.TV.cz" tvg-name="KVIFF TV" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KVIFF.png", KVIFF TV
 http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-id="Warner.TV.cz" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/QtGQR0c.png", Warner TV
