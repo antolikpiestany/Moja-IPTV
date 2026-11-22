@@ -64,6 +64,10 @@ http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
 http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://grgopitic.github.io/piconstv/all/axn.png", AXN
 http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.White.cz" tvg-name="AXN White" tvg-logo="https://i.imgur.com/DaAyLE7.png", AXN White
+http://88.212.15.50/live/test_white/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.Black.cz" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Nqvx6nz.png", AXN Black
+http://88.212.15.50/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-name="AMC" tvg-logo="https://grgopitic.github.io/piconstv/all/amc.png", AMC
 http://88.212.15.50/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO
