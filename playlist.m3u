@@ -208,6 +208,10 @@ http://88.212.15.50/live/test_esp2_hevc_tizen/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Canal+.Sport.2.cz" tvg-name="Canal+ Sport 2" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/CANAL%2B%20SPORT2.png", CANAL+ SPORT 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Premier.Sport.1.cz" tvg-name="Premier Sport 1" tvg-logo="https://i.imgur.com/XqGEeSE.png", Premier Sport 1
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=1819014&extension=ts&play_token=LSYq7CyE8x
+#EXTINF:-1 tvg-id="Premier.Sport.2.cz" tvg-name="Premier Sport 2" tvg-logo="https://i.imgur.com/yOn6CxZ.png", Premier Sport 2
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:4E:10:DB&stream=1819013&extension=ts&play_token=gTH7kvIj1f
 #EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-name="Arena sport 1 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1SPORT.png", KANAL1 SPORT
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena.Sport.2.HD.sk" tvg-name="Arena sport 2 HD" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/KANAL1XTRA.png", KANAL1 EXTRA
