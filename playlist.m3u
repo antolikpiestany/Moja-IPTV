@@ -242,8 +242,6 @@ http://lb.streaming.sk/senzi/stream/playlist.m3u8
 http://88.212.15.50/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="STVR.24.cz" tvg-name="STVR 24" tvg-logo="https://i.imgur.com/tTCuczU.png", STVR 24
 http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ.24.cz" tvg-name="JOJ 24" tvg-logo="https://i.imgur.com/Tv12wOd.png", JOJ 24
-https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
 #EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/elZyUjX.png", CNN Prima News
 http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.cz" tvg-name="BBC World News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png", BBC World News
