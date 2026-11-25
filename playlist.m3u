@@ -237,7 +237,7 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Šlágr Originál" tvg-logo="https://i.imgur.com/0YjeWcq.png", Šlágr Originál
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-name="SENZI" tvg-logo="https://i.imgur.com/1qJMmBu.png", SENZI
-http://lb.streaming.sk/senzi/stream/playlist.m3u8
+http://88.212.15.50/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TA3.cz" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png", TA3
 http://88.212.15.50/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="STVR.24.cz" tvg-name="STVR 24" tvg-logo="https://i.imgur.com/tTCuczU.png", STVR 24
