@@ -42,6 +42,8 @@ http://88.212.15.50/live/prima_show_25p/playlist.m3u8
 http://88.212.15.50/live/prima_star_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.Krimi.cz" tvg-name="Prima Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png", PRIMA Krimi
 http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-name="Prima LOVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png", PRIMA LOVE
+http://88.212.15.50/live/test_prima_love_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.MAX.cz" tvg-name="Prima Max" tvg-logo="https://i.imgur.com/ePrdyLi.png", PRIMA MAX
 http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.COOL.SK.cz" tvg-name="Prima COOL SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png", PRIMA COOL SK
@@ -60,6 +62,8 @@ http://88.212.15.50/live/nova_fun_avc_25p/playlist.m3u8
 http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Action.cz" tvg-name="Nova Action" tvg-logo="https://i.imgur.com/oRSsfRx.png", NOVA Action
 http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova.Lady.cz" tvg-name="Nova Lady" tvg-logo="https://i.imgur.com/gkxfNiq.png", NOVA Lady
+http://88.212.15.50/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-name="Nova Cinema" tvg-logo="https://i.imgur.com/8Hxm0bV.png", NOVA CINEMA 
 http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://grgopitic.github.io/piconstv/all/axn.png", AXN
@@ -180,6 +184,8 @@ http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Travel_Channel.png", Travel Channel
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.cz" tvg-name="Crime and Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png", Crime+Investigation
+http://88.212.15.50/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-name="Auto Motor Sport" tvg-logo="https://i.imgur.com/o8wOvJ7.png", AUTO MOTOR SPORT 
 http://88.212.15.50/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-id=":ŠPORT.HD.sk" tvg-name=":ŠPORT HD" tvg-logo="https://i.imgur.com/oAtcxNZ.png", rtvs SPORT 
@@ -232,6 +238,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro.Music.cz" tvg-name="Retro Music" tvg-logo="https://i.imgur.com/pyOjdZs.png", Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Box.Classic.cz" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Music Box Classic
+http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png", 360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Šlágr Originál" tvg-logo="https://i.imgur.com/0YjeWcq.png", Šlágr Originál
