@@ -160,12 +160,16 @@ http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-name="Prima ZOOM" tvg-logo="https://i.imgur.com/uNJqZ6p.png", PRIMA ZOOM 
 http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ.Svět.(cz).cz" tvg-name="JOJ Svět (cz)" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/JOJ_Svet.png", JOJ Svet
+http://88.212.15.50/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.HD.sk" tvg-name="ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png", ID
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png", DISCOVERY
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/F5Uosum.png", SPEKTRUM
 http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.Home.cz" tvg-name="Spektrum Home" tvg-logo="https://i.imgur.com/VaVi65F.png", SPEKTRUM Home
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.Earth.cz" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC Earth
 http://88.212.15.50/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.cz" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC 
@@ -182,6 +186,8 @@ http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png", Viasat Nature
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="History.Channel.cz" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png", History
+http://88.212.15.50/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel.Channel.cz" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/antolikpiestany/Moja-IPTV/main/Loga%20Kanalov/Travel_Channel.png", Travel Channel
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime.and.Investigation.cz" tvg-name="Crime and Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png", Crime+Investigation
@@ -240,16 +246,22 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Music.Box.Classic.cz" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Music Box Classic
 http://88.212.15.50/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="Music.Box.Hits.cz" tvg-name="Music Box Hits" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png", Music Box Hits
+http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png", 360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-name="Šlágr Originál" tvg-logo="https://i.imgur.com/0YjeWcq.png", Šlágr Originál
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-name="SENZI" tvg-logo="https://i.imgur.com/1qJMmBu.png", SENZI
 http://88.212.15.50/live/test_senzi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Folklorika.TV.HD.sk" tvg-name="Folklorika TV HD" tvg-logo="https://d11-a.sdn.cz/d_11/c_img_m3_A/kPX8laQTIipeEeUK0Vx9/a354.png", Folklorika TV
+http://88.212.15.50/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TA3.cz" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png", TA3
 http://88.212.15.50/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="STVR.24.cz" tvg-name="STVR 24" tvg-logo="https://i.imgur.com/tTCuczU.png", STVR 24
 http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT24.cz" tvg-name="ČT24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png", ČT24
+http://88.212.15.50/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/elZyUjX.png", CNN Prima News
 http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.cz" tvg-name="BBC World News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png", BBC World News
